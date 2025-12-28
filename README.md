@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/zhen-sn/lpxcx/refs/heads/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251226215312_157_258.png
+
 # 旅拍小程序
 旅拍样片小程序、写真小程序、展示小程序、PHP+Mysql
 
