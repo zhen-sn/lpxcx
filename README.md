@@ -1,3 +1,4 @@
+![图片描述](https://raw.githubusercontent.com/zhen-sn/lpxcx/refs/heads/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251226215312_157_258.png)]
 https://raw.githubusercontent.com/zhen-sn/lpxcx/refs/heads/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251226215312_157_258.png
 
 # 旅拍小程序
